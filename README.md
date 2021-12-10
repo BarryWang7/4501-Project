@@ -7,7 +7,7 @@ To analyze the top 10 causes of call to 311, we first filtered out the for zip c
 To analyze the illegal parking incidents rate, we counted the total number of complaint in zip code 10027 and the number of complaint associated with "Illegal parking" and calculated the ratio of illegal parking as a fraction of all incidents in 10027.  Using the same method, we calculated the total fraction of parking incidents across all zip codes. By comparing the two ratios, the results shows the parking incidents in 10027 is lower than the ratio across the whole city.
 
 # Group name: 
-NYC4402
+IEOR4501 Group 33 from section 2
 # Section: 002
 # UNI and Name:
 bw2716 (Bowen Wang)
